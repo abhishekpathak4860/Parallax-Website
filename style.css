@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.pimg1{
+    background: url("../pic/img2.jpg")center center/cover;
+    width: 100%;
+  height: 100vh;
+}
+.pimg2{
+    background: url("../pic/img3.jpg")center center/cover;
+    min-height: 400px;
+}
+.pimg4{
+    background: url("../pic/img4.jpg")center center/cover;
+    min-height: 400px;
+}
+.ptext{
+    position: relative;
+    top: 204px;
+    width:100%;
+    text-align: center;
+    color: white;
+    font-size: xx-large;
+}
+.textbg{
+    background-color: black;
+    padding: 0px 15px;
+    text-transform: uppercase;
+}
+.nextsec h2{
+    width: 100%;
+    text-align: center;
+    margin-top: 15px;
+}
+.center1 p{
+    padding: 20px 100px;
+    text-align: center;
+    color: cadetblue;
+}
+.center2 p{
+    padding: 20px 100px;
+    text-align: center;
+    color: crimson;
+} 
+.center3 p{
+    padding: 20px 100px;
+    text-align: center;
+    color: darkgoldenrod;
+} 
+ .pimg1,.pimg2,.pimg4{
+    background-attachment: fixed;
+} 
